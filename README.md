@@ -8,8 +8,11 @@
 <br>
 
 🎓 I'm 19 years old and currently in my first semester of **Desenvolvimento de Software (DSM)** higher education, at **Fatec Luigi Papaiz**.
+<br>
 🌱 My primary focus is **Python**, which is the language I'm most proficient in, and I'm also diving into **JavaScript**.
+<br>
 💡 Foundational knowledge in **HTML** and **CSS**.
+<br>
 🧠 In my personal, I'm exploring **Machine Learning** with Python.
 
 <br>
