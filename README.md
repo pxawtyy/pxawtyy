@@ -63,5 +63,5 @@
 
 <br>
 <p align="center">
-  ⭐️ From <a href="https://github.com/pxawtyy">Michael Kuwahara</a>
+  ⭐️ - from <a href="https://github.com/pxawtyy">michael <3</a>
 </p>
