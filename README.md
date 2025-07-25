@@ -7,7 +7,7 @@
 
 <br>
 
-🎓 I'm 19 years old and currently in my first semester of **Desenvolvimento de Software Multiplataforma (DSM)** higher education, at **Fatec Luigi Papaiz**.
+🎓 I'm 19 years old and currently in my second semester of **Desenvolvimento de Software Multiplataforma (DSM)** higher education, at **Fatec Luigi Papaiz**.
 <br>
 🌱 My primary focus is **Python**, which is the language I'm most proficient in, and I'm also diving into **JavaScript**.
 <br>
